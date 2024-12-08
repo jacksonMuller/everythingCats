@@ -19,6 +19,5 @@ This project is a fun interactive website aimed for cat enthusiasts. The project
 </ol>
 
 <h4>Link to App:</h4>
-<ul>
 <li><a href="https://codesandbox.io/p/sandbox/green-fire-yctrkr?file=%2Fsrc%2FApp.js">Here</a>
-</ul>
+
