@@ -1,6 +1,7 @@
 .App {
-  display: flex;
-  flex-direction: column;
+  display: grid;
+  grid-template-columns: 1fr;
+  justify-items: center;
   align-items: center;
   font-family: sans-serif;
   text-align: center;
