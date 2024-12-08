@@ -18,6 +18,6 @@ This project is a fun interactive website aimed for cat enthusiasts. The project
 <li><a href="https://developers.thecatapi.com/view-account/ylX4blBYT9FaoVd6OhvR?report=bOoHBz-8t">TheCatAPI</a></li>
 </ol>
 
-<h4>Link to App:</h4>
-<li><a href="https://codesandbox.io/p/sandbox/green-fire-yctrkr?file=%2Fsrc%2FApp.js">Here</a>
+<h4>Link to GitHub:</h4>
+<li><a href="https://github.com/jacksonMuller/everythingCats">Here</a>
 
